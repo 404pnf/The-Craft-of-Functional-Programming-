@@ -1,3 +1,5 @@
+```Haskell
+
 --Ch 3 Basic Types and Definintions
 
 module Ch3exercises where
@@ -118,7 +120,7 @@ smallerRoot a b c
 	| root1 a b c >= root2 a b c                              = root2 a b c 
 	| otherwise						  = root1 a b c
 
-
+```
 --3.19
 
 funny x= x+x
